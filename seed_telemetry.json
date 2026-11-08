@@ -1,0 +1,11 @@
+{
+  "kpis": {
+    "total_inspected": 1420,
+    "mean_latency_ms": 208,
+    "active_canary_traps": 14,
+    "breach_cost_prevented_usd": "Not estimated"
+  },
+  "events": [],
+  "canary_alerts": [],
+  "server_quarantined": false
+}

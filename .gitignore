@@ -1,0 +1,20 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.db
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.venv/
+build/
+dist/
+ShadowMCP-demo-baseline-2026-11-08.zip
+ShadowMCP_predemo_hardening_20261108.zip
+
+# Internal planning / AI handoff notes (kept local, not published)
+CLAUDE_HANDOFF_*/
+CODEX_ACTION_ITEMS.md
+GEMINI_PRESENTATION_HANDOFF.md
+PROGRESS_UPDATE.md
+*.zip

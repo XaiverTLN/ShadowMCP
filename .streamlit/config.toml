@@ -1,0 +1,18 @@
+[theme]
+base = "dark"
+primaryColor = "#EF4444"
+backgroundColor = "#0B0F19"
+secondaryBackgroundColor = "#111827"
+textColor = "#F9FAFB"
+borderColor = "#6B7280"
+showWidgetBorder = true
+baseFontSize = 16
+font = "sans-serif"
+codeFont = "monospace"
+
+[server]
+# Serves ./static at /app/static/ — the bundled Plotly basemap (world_110m.json) so the map works offline.
+enableStaticServing = true
+
+[client]
+toolbarMode = "viewer"
